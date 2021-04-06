@@ -560,19 +560,19 @@
                     </div>
                     <div class="row">
                         <div class="col-lg-3 ml-auto text-center mb-5 mb-lg-0">
-                                <img class="img-fluid" src="assets/img/drapeauFrancais.png" alt="" />
+                                <img class="img-fluid" src="src/assets/img/drapeauFrancais.png" alt="" />
                             <div>Mothertongue.</div>
                         </div>
                         <div class="col-lg-3 ml-auto text-center mb-5 mb-lg-0">
-                                <img class="img-fluid" src="assets/img/drapeauAnglais.png" alt="" />
+                                <img class="img-fluid" src="src/assets/img/drapeauAnglais.png" alt="" />
                                 <div>B2.</div>
                         </div>
                         <div class="col-lg-3 ml-auto text-center mb-5 mb-lg-0">
-                                <img class="img-fluid" src="assets/img/drapeauItalien.png" alt="" />
+                                <img class="img-fluid" src="src/assets/img/drapeauItalien.png" alt="" />
                                 <div>B1.</div>
                         </div>
                         <div class="col-lg-3 ml-auto text-center mb-5 mb-lg-0">
-                                <img class="img-fluid" src="assets/img/drapeauAllemand.png" alt="" />
+                                <img class="img-fluid" src="src/assets/img/drapeauAllemand.png" alt="" />
                                 <div>A2.</div>
                         </div>
                         
