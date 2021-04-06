@@ -16,7 +16,7 @@
         <!-- Third party plugin CSS-->
         <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
-         <link href="dist/css/styles.css" rel="stylesheet" /> 
+         <link href="styles.css" rel="stylesheet" /> 
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -560,19 +560,19 @@
                     </div>
                     <div class="row">
                         <div class="col-lg-3 ml-auto text-center mb-5 mb-lg-0">
-                                <img class="img-fluid" src="src/assets/img/drapeauFrancais.png" alt="" />
+                                <img class="img-fluid" src="drapeauFrancais.png" alt="" />
                             <div>Mothertongue.</div>
                         </div>
                         <div class="col-lg-3 ml-auto text-center mb-5 mb-lg-0">
-                                <img class="img-fluid" src="src/assets/img/drapeauAnglais.png" alt="" />
+                                <img class="img-fluid" src="drapeauAnglais.png" alt="" />
                                 <div>B2.</div>
                         </div>
                         <div class="col-lg-3 ml-auto text-center mb-5 mb-lg-0">
-                                <img class="img-fluid" src="src/assets/img/drapeauItalien.png" alt="" />
+                                <img class="img-fluid" src="drapeauItalien.png" alt="" />
                                 <div>B1.</div>
                         </div>
                         <div class="col-lg-3 ml-auto text-center mb-5 mb-lg-0">
-                                <img class="img-fluid" src="src/assets/img/drapeauAllemand.png" alt="" />
+                                <img class="img-fluid" src="drapeauAllemand.png" alt="" />
                                 <div>A2.</div>
                         </div>
                         
